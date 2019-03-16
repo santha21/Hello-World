@@ -1,2 +1,2 @@
-Automation Hello, Welcome to VNC Digital!!
+This is just a test .. but not Automation Hello, !!
 
